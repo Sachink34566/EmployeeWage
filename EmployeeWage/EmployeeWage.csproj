@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EmployeeWage.AddResearch100hour</StartupObject>
+    <StartupObject>EmployeeWage.EmpWageUsingClassMethod</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="AddResearch100hours.cs" />
     <Compile Include="CaseStatement.cs" />
     <Compile Include="DailyEmployeeWage.cs" />
+    <Compile Include="EmpWageUsingClassMethod.cs" />
     <Compile Include="Monthwage100hour.cs" />
     <Compile Include="Presence.cs" />
     <Compile Include="Program.cs" />
