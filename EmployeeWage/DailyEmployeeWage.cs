@@ -9,7 +9,7 @@ namespace EmployeeWage
     public class DailyEmployee
     {
         private const int FullTime = 1;
-    private const int HourlyWage = 20;
+        private const int HourlyWage = 20;
 
     public void CalculateDailyWage()
     {
