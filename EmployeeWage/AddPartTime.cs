@@ -39,7 +39,7 @@ namespace EmployeeWage
         }
     }
 
-    class AddPartTime
+    public class AddPartTime
     {
         static void Main(string[] args)
         {
