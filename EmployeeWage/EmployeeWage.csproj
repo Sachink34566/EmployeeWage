@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EmployeeWage.Monthwage</StartupObject>
+    <StartupObject>EmployeeWage.AddResearch100hour</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddPartTime.cs" />
+    <Compile Include="AddResearch100hours.cs" />
     <Compile Include="CaseStatement.cs" />
     <Compile Include="DailyEmployeeWage.cs" />
     <Compile Include="Monthwage100hour.cs" />
